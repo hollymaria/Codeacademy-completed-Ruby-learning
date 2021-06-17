@@ -1,1 +1,0 @@
-# creating-a-generator-in-ruby
